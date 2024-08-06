@@ -1,0 +1,86 @@
+* {
+    scrollbar-width: none;
+}
+
+:root {
+    --yellow: hsl(47, 88%, 63%);
+    --gray: hsl(0, 0%, 42%);
+    --noblack: hsl(0, 0%, 7%);
+}
+
+body {
+    background-color: var(--yellow) ;
+}
+
+.container {
+    align-content: center;
+    display: grid;
+    min-height: 100dvh;
+
+}
+
+#thumbnail {
+    width: 100%;
+    border-radius: 10px;
+}
+
+p, h2, button {
+    color: var(--noblack);
+    font-family: Figtree, serif;
+}
+
+
+.tag, .name, .title {
+    font-weight: 800;
+}
+
+.tag {
+    background-color: var(--yellow);
+    padding: 5px 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.date {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.title {
+    font-size: 22px;
+}
+
+.title:hover {
+    color: var(--yellow);
+}
+
+.description {
+    color: var(--gray);
+    font-size: 15px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    gap: .5px;
+}
+
+#icon {
+    width: 30px;
+}
+
+.name {
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 1px var(--noblack);
+    box-shadow: 8px 8px var(--noblack);
+}
