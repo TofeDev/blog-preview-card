@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-y-JdCg8B_D)
 - Live Site URL: [Live Website](https://tofedev.github.io/blog-preview-card/)
 
 ## My process
