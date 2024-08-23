@@ -9,7 +9,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -41,11 +40,6 @@ I started with the HTML, then the CSS in this order:
 - Tag and Author
 - Hover
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS
-
 ### What I learned
 
 I learned how to use SVG images and the ":root" pseudo-class.
@@ -53,4 +47,4 @@ I learned how to use SVG images and the ":root" pseudo-class.
 ## Author
 
 - Frontend Mentor - [@TofeDev](https://www.frontendmentor.io/profile/TofeDev)
-- X(Twitter) - [@Tofe_Dev](https://www.twitter.com/Tofe_Dev)
+
